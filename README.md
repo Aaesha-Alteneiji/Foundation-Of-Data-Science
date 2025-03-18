@@ -6,4 +6,10 @@ Activity Title : Analyzing NYC Hyperlocal Air Quality Data with Spatial Join
 
 Activity Description :
 
-Exploring NYC Hyperlocal Air Quality
+Exploring NYC Hyperlocal Air Quality by:
+- analyzing the summary statistics on temperature, humidity, and pm25 attributes.
+- analyzing the pm25 average by borough.
+- analyzing the relationship between temperature and humidity.
+- analyzing humidity distribution.
+- analyzing the distribution of pm25 by category.
+- simulating pm25 samples distribution. 
