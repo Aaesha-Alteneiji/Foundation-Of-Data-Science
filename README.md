@@ -2,7 +2,8 @@ Foundation of Data Science
 
 Student : Aaesha Saleh Alteneiji
 
-Activity Description : 
+Activity Title : Analyzing NYC Hyperlocal Air Quality Data with Spatial Join
 
-Analyzing NYC Hyperlocal Air Quality Data with Spatial Join
+Activity Description :
 
+Exploring NYC Hyperlocal Air Quality
