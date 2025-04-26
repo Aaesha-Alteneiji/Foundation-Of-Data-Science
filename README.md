@@ -4,7 +4,7 @@ Student : Aaesha Saleh Alteneiji
 
 Activity Title : Analyzing NYC Hyperlocal Air Quality Data with Spatial Join
 
-Activity Description :
+Activity 2 Description :
 
 Exploring NYC Hyperlocal Air Quality by:
 - analyzing the summary statistics on temperature, humidity, and pm25 attributes.
@@ -13,3 +13,8 @@ Exploring NYC Hyperlocal Air Quality by:
 - analyzing humidity distribution.
 - analyzing the distribution of pm25 by category.
 - simulating pm25 samples distribution. 
+
+Activity 3 Description :
+
+Analyzing NYC Hyperlocal Air Quality by:
+- 
