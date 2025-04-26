@@ -17,4 +17,8 @@ Exploring NYC Hyperlocal Air Quality by:
 Activity 3 Description :
 
 Analyzing NYC Hyperlocal Air Quality by:
-- 
+- Generating a sample data from the population.
+- Displaying the empirical histogram of the observed data.
+- Generating the bootstrap median and mean by resampling the sample data.
+- Generating the 95% confidence interval.
+- Test the null and alternative hypothesis.
